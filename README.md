@@ -1,5 +1,4 @@
-# MNISTwithANN
-Project Title: Handwritten Digit Recognition using Artificial Neural Networks (ANN) on MNIST Dataset
+# Handwritten Digit Recognition using Artificial Neural Networks (ANN) on MNIST Dataset
 
 **Project Description:**
 
